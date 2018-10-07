@@ -1,7 +1,7 @@
 # BaekJoon Algorithm
 
-- baekjoon online judge 단계별로 문제 풀기 풀의 모음
-- Language : JAVA
+#### baekjoon online judge 단계별로 문제 풀기 풀의 모음
+#### Language : JAVA
 
 * 정렬
 * 스택
