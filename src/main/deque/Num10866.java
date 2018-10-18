@@ -1,19 +1,19 @@
 package deque;
 
-import java.util.Scanner;
-
 public class Num10866 {
 
     public static void main(String[] args) {
         MyDeque deque = new MyDeque();
         System.out.println(deque.empty());
+        for (int i = 0; i < 10; i++) {
+            deque.push_front(i);
+        }
 
-
-    }
-
-    public static void operation() {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        System.out.println(deque.front());
+        System.out.println(deque.size());
+        System.out.println(deque.pop_back());
+        System.out.println(deque.back());
+        System.out.println(deque.size());
     }
 
 }
@@ -34,12 +34,12 @@ class MyDeque {
         Node node = new Node(n);
         this.size++;
 
-        if(empty() == 1) {
+        if (empty() == 1) {
             this.front = node;
             this.back = node;
-        }else{
-            this.back.rlink = node;
+        } else {
             node.llink = this.back;
+            this.back.rlink = node;
             this.back = node;
         }
     }
@@ -48,37 +48,49 @@ class MyDeque {
         Node node = new Node(n);
         this.size++;
 
-        if(empty() == 1) {
+        if (empty() == 1) {
             this.front = node;
-            this.front = node;
-        }else{
+            this.back = node;
+        } else {
+            node.rlink = this.front;
             this.front.llink = node;
-            node.rlink = node;
             this.front = node;
         }
     }
 
     int pop_front() {
-        if(empty() == 1) {
+        if (empty() == 1) {
             return -1;
-        }else{
+        } else {
+            this.size--;
             int n = this.front.data;
 
-            this.front.rlink.llink = null;
-            this.front = this.front.rlink;
+            if (this.front.rlink == null) {
+                this.front = null;
+                this.back = null;
+            } else {
+                this.front = this.front.rlink;
+                this.front.llink = null;
+            }
 
             return n;
         }
     }
 
     int pop_back() {
-        if(empty() == 1) {
+        if (empty() == 1) {
             return -1;
-        }else{
+        } else {
+            this.size--;
             int n = this.back.data;
 
-            this.back.llink.rlink = null;
-            this.back = this.back.llink;
+            if (this.back.llink == null) {
+                this.back = null;
+                this.front = null;
+            } else {
+                this.back = this.back.llink;
+                this.back.rlink = null;
+            }
             return n;
         }
     }
@@ -88,23 +100,23 @@ class MyDeque {
     }
 
     int empty() {
-        if(this.front == null)
+        if (this.front == null && this.back == null)
             return 1;
         return 0;
     }
 
     int front() {
-        if(empty() == 1) {
+        if (empty() == 1) {
             return -1;
-        }else{
+        } else {
             return this.front.data;
         }
     }
 
     int back() {
-        if(empty() == 1){
+        if (empty() == 1) {
             return -1;
-        }else {
+        } else {
             return this.back.data;
         }
     }

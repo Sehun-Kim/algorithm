@@ -21,32 +21,34 @@ public class Num9012 {
 		
 		int n = Integer.parseInt(br.readLine());
 		List<String> brackets = new ArrayList<String>();
-		
-		while(n-- > 0){
-			Stack<String> stack = new Stack<String>();
-			brackets = Arrays.asList(br.readLine().split(""));
-			boolean isVPS = true;
-			
-			for(String bracket : brackets){
-				if(bracket.equals(")")){
-					if(stack.size() == 0){
-						isVPS = false;
-						break;
-					}
-					stack.pop();
-				}else{
-					stack.push(bracket);
-				}
-			}
-			if(!(stack.size() == 0)){
-				isVPS = false;
-			}
-			if(isVPS){
-				sb.append("YES\n");
-			}else{
-				sb.append("NO\n");
-			}
-		}
+        Stack<String> stack;
+
+        for (int i = 0; i < n; i ++) {
+            stack = new Stack<String>();
+            brackets = Arrays.asList(br.readLine().split(""));
+            boolean isVPS = true;
+
+            for(String bracket : brackets){
+                if(bracket.equals(")")){
+                    if(stack.isEmpty()){
+                        isVPS = false;
+                        break;
+                    }
+                    stack.pop();
+                }else{
+                    stack.push(bracket);
+                }
+            }
+            if(!(stack.isEmpty())){
+                isVPS = false;
+            }
+            if(isVPS){
+                sb.append("YES\n");
+            }else{
+                sb.append("NO\n");
+            }
+        }
+
 		System.out.println(sb.toString());
 
 	}
