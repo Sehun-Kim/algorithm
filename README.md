@@ -1,6 +1,6 @@
 # BaekJoon Algorithm
 
-#### baekjoon online judge 단계별로 문제 풀기 풀
+#### baekjoon online judge 단계별 문제풀이
 > Language : JAVA
 
 * 정렬
