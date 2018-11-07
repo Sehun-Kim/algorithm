@@ -5,20 +5,19 @@ import java.util.Scanner;
 public class Num2748 {
 
     public static void main(String[] ar){
-        Num2748 ex = new Num2748();
         Scanner sc = new Scanner(System.in);
         
         int n = sc.nextInt();
         long result = 0;
         if (n>0) {
-        	result = ex.calcFibo(n);
+        	result = calcFibo(n);
         }
         System.out.println(result);
         
         sc.close();
     }
 
-    public long calcFibo(int n){
+    public static long calcFibo(int n){
         long[] fibo = new long[n+1];
         fibo[0] = 0;
         fibo[1] = 1;

@@ -1,6 +1,8 @@
 package binomical_coefficient;
 
 /*
+ * 파스칼의 삼각형 : https://blog.naver.com/vollollov/220947452823
+ *
  * 이항계수란 n개의 원소에서 r개의 원소를 뽑아내는 방법의 수를 나타낸다.
  * 즉, nCr과 같이 수학에서 조합을 뜻한다.
  *
