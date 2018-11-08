@@ -7,7 +7,7 @@ import java.util.Scanner;
  * http://jason9319.tistory.com/169
  *
  * https://www.acmicpc.net/blog/view/29
- * 서로소 : 두 수사이에 1이외에는 공약수가 없는 수
+ * 서로소 : 두 수 사이에 1이외에는 공약수가 없는 수
  *
  * 곱셈의 역원 : http://zetacode.com/math/2016/04/22/modular-multiplicative-inverse.html
  */

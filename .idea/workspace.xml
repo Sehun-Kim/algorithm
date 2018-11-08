@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c6fd675-003f-4063-bec0-52faae5147ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num11051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num11401_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binomical_coefficient/Num11401Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num1676.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/binomical_coefficient/Num11050.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/binomical_coefficient/Num11050.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/binomical_coefficient/Num11050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num11050.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/fibonacci/Num2748.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/fibonacci/Num2748.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/binomical_coefficient/Num10872.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/binomical_coefficient/Num10872.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/binomical_coefficient/Num11401.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/binomical_coefficient/Num11401.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,41 +20,42 @@
     <session id="-1312410063">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="62" />
+          <entry key="java" value="75" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="62" />
+          <entry key="JAVA" value="75" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="7678" />
+          <entry key="java" value="8359" />
           <entry key="md" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7678" />
+          <entry key="JAVA" value="8359" />
           <entry key="Markdown" value="21" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
@@ -65,21 +63,15 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java">
+        <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num1676.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-79">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="371">
+              <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,8 +147,10 @@
         <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num11051.java" />
         <option value="$PROJECT_DIR$/src/test/binomical_coefficient/Num11401Test.java" />
         <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num11401_ex.java" />
-        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java" />
         <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java" />
+        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java" />
+        <option value="$PROJECT_DIR$/src/main/Num1676.java" />
+        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num1676.java" />
       </list>
     </option>
   </component>
@@ -169,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,16 +194,24 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="deque" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541587937152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541688580340" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main" />
@@ -224,6 +225,9 @@
       <recent name="binomical_coefficient" />
       <recent name="deque" />
       <recent name="other" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="binomical_coefficient" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -241,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Num10872">
+  <component name="RunManager" selected="Application.Num1676">
     <configuration name="Num10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binomical_coefficient.Num10872" />
       <module name="algorithm" />
@@ -281,6 +285,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Num1676" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binomical_coefficient.Num1676" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Num11401Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -295,36 +306,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num11401Test.factorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binomical_coefficient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="binomical_coefficient" />
-      <option name="MAIN_CLASS_NAME" value="binomical_coefficient.Num11401Test" />
-      <option name="METHOD_NAME" value="factorial" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Num11401" />
-      <item itemvalue="JUnit.Num11401Test.factorial" />
       <item itemvalue="JUnit.Num11401Test" />
       <item itemvalue="Application.Num11401_ex" />
       <item itemvalue="Application.Num10872" />
+      <item itemvalue="Application.Num1676" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num1676" />
         <item itemvalue="Application.Num10872" />
         <item itemvalue="Application.Num11401_ex" />
         <item itemvalue="Application.Num11401" />
         <item itemvalue="JUnit.Num11401Test" />
-        <item itemvalue="JUnit.Num11401Test.factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +351,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30533117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3101777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36164382" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36164382" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,6 +392,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java</url>
+          <line>7</line>
+          <properties class="binomical_coefficient.Num10872" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -563,16 +566,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Tester.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Parser.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/IntBinaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -591,26 +585,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/MyParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/MyParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Driver.java" />
     <entry file="file://$PROJECT_DIR$/src/main/fibonacci/Num1003.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -639,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11050.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/binomical_coefficient/Num11401Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -656,6 +625,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11051.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11050.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="46" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11401_ex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -663,24 +663,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11051.java">
+    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num1676.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="371">
+          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
