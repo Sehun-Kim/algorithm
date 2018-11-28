@@ -2,6 +2,8 @@ package dp_basic;
 
 import java.util.Scanner;
 
+// http://mygumi.tistory.com/260
+
 public class Num10844 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,6 +14,7 @@ public class Num10844 {
         // dp[N][L] = dp[N - 1][L - 1] + dp[N - 1][L + 1]
         // 길이 N, 마지막 숫자가 L일 경우
 
+        // 1의 자리 숫자는 모두 01, 02, 03 등 1개씩
         for (int i = 1; i <= 9; i++) {
             dp[1][i] = 1;
         }

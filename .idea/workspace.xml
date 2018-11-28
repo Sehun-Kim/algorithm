@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c6fd675-003f-4063-bec0-52faae5147ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/dp_basic/Num1005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/dp_basic/Num10844.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/dp_basic/Num1463.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/dp_basic/Num2579.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/dp_basic/Num1520.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/dp_basic/Num2156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/dp_basic/Num2293.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp_basic/Num1932.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp_basic/Num1932.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/dp_basic/Num1932.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/dp_basic/Num1932.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dp_basic/Num1463.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp_basic/Num1463.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/dp_basic/Num10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/dp_basic/Num10844.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,45 +20,47 @@
     <session id="-1312410063">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="124" />
+          <entry key="java" value="134" />
           <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="124" />
+          <entry key="JAVA" value="134" />
           <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="12059" />
+          <entry key="java" value="14720" />
           <entry key="md" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12059" />
+          <entry key="JAVA" value="14720" />
           <entry key="Markdown" value="21" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
@@ -68,54 +69,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2579.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1463.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1005.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num10844.java">
+        <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1520.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="9" column="82" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1932.java">
+        <entry file="file://$PROJECT_DIR$/src/main/queue/Num1260.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="10" column="48" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="341">
+              <caret line="116" column="5" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="116" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -136,9 +103,11 @@
       <find>System.out.println(sum);</find>
       <find>compare</find>
       <find>tmp</find>
+      <find>vertical</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>N</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -154,9 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/other/Num1914Test.java" />
-        <option value="$PROJECT_DIR$/src/main/deck/Num10866.java" />
-        <option value="$PROJECT_DIR$/src/test/deque/MyDequeTest.java" />
         <option value="$PROJECT_DIR$/src/main/fibonacci/Num1003.java" />
         <option value="$PROJECT_DIR$/src/main/fibonacci/Num2747.java" />
         <option value="$PROJECT_DIR$/src/main/fibonacci/Num2749.java" />
@@ -205,6 +171,9 @@
         <option value="$PROJECT_DIR$/src/main/dp_basic/Num1463.java" />
         <option value="$PROJECT_DIR$/src/main/dp_basic/Num1005.java" />
         <option value="$PROJECT_DIR$/src/main/dp_basic/Num10844.java" />
+        <option value="$PROJECT_DIR$/src/main/dp_basic/Num2293.java" />
+        <option value="$PROJECT_DIR$/src/main/dp_basic/Num2156.java" />
+        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1520.java" />
       </list>
     </option>
   </component>
@@ -219,6 +188,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,17 +219,24 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="Num1260.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543147509659" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543388557697" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main" />
@@ -293,9 +270,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Num1463">
-    <configuration name="Num1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp_basic.Num1149" />
+  <component name="RunManager" selected="Application.Num1520">
+    <configuration name="Num1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp_basic.Num1463" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -307,8 +284,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp_basic.Num1463" />
+    <configuration name="Num1520" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp_basic.Num1520" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -333,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num2407" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binomical_coefficient.Num2407" />
+    <configuration name="Num2156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp_basic.Num2156" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binomical_coefficient.*" />
+          <option name="PATTERN" value="dp_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num6591" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binomical_coefficient.Num6591" />
+    <configuration name="Num2293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp_basic.Num2293" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binomical_coefficient.*" />
+          <option name="PATTERN" value="dp_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,19 +337,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Num2407" />
-      <item itemvalue="Application.Num6591" />
-      <item itemvalue="Application.Num1149" />
       <item itemvalue="Application.Num1932" />
       <item itemvalue="Application.Num1463" />
+      <item itemvalue="Application.Num2293" />
+      <item itemvalue="Application.Num2156" />
+      <item itemvalue="Application.Num1520" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num1520" />
+        <item itemvalue="Application.Num2156" />
+        <item itemvalue="Application.Num2293" />
         <item itemvalue="Application.Num1463" />
         <item itemvalue="Application.Num1932" />
-        <item itemvalue="Application.Num1149" />
-        <item itemvalue="Application.Num6591" />
-        <item itemvalue="Application.Num2407" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +381,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23101777" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24474959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,7 +393,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3657534" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3657534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,36 +440,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/other/Num1914Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/deque/MyDequeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/other/Num1914.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/queue/Num1260.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/queue/Num11866.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/queue/Num10845.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/sorting/Num1181.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -745,9 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
           <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -755,41 +699,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="82" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
-          <folding>
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1932.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2579.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1463.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="180">
           <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1005.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="90">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -797,10 +719,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1932.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="48" selection-start-line="9" selection-start-column="7" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num10844.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" column="82" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+        <state relative-caret-position="225">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2579.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2156.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/queue/Num11866.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2293.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/queue/Num1260.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="116" column="5" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="116" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/queue/Num10845.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-769">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1520.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
