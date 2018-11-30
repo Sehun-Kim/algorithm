@@ -49,7 +49,7 @@ public class Num1005
         }
     }
 
-    public static int solve(int W, int D[], List<BuildingOrder> list, int cache[])
+    public static int solve(int W, int[] D, List<BuildingOrder> list, int cache[])
     {
         // 기저사례
         if (cache[W-1] != 0)
