@@ -25,24 +25,23 @@ public class QuickSort {
     }
 
     public static int partition(int[] arr, int start, int end) {
-        int pValue = arr[start];
-        int left = start +1;
-        int right = end;
+        int pValue = arr[end];
+        int left = start;
+        int right = end - 1;
 
-        System.out.println("pivot : " + start + ", left : " + left + ", right : " + right);
+        System.out.println("==== pivot idx:" + end + ", 값:" + pValue + " ====");
         boolean done = false;
 
         while (!done) {
-            while (left <= right && arr[left] <= pValue) {
+            while (left < end && arr[left] <= pValue) {
                 left++;
-                System.out.println("left : " + left);
             }
-            while (arr[right] >= pValue && right >= left) {
+            System.out.println("left idx: " + left + ", 값:" + arr[left]);
+            while (arr[right] >= pValue && right > left) {
                 right--;
-                System.out.println("right : " + right);
             }
-
-            if (right < left) {
+            System.out.println("right idx: " + right + ", 값:" + arr[right]);
+            if (right <= left) { // right와 left가 같을 경우 pivot change
                 done = true;
             } else {
                 int tmp = arr[left];
@@ -50,9 +49,13 @@ public class QuickSort {
                 arr[right] = tmp;
             }
         }
+        // left와 pivot이 만날 경우 그냥 종료
+        if (end == left) {
+            return left;
+        }
         // pivot change
-        int tmp = arr[start];
-        arr[start] = arr[right];
+        int tmp = arr[end];
+        arr[end] = arr[right];
         arr[right] = tmp;
 
         return right;
