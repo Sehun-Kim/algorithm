@@ -8,8 +8,8 @@ public class BestAlbum {
         int[] plays = {500, 600, 150, 800, 2500};
         int[] result = solution(genres, plays);
 
-        for (Integer integer : result) {
-            System.out.println(integer);
+        for (int i : result) {
+            System.out.println(i);
         }
     }
 
