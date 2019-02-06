@@ -1,57 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c6fd675-003f-4063-bec0-52faae5147ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/BridgePassTruck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/IronRod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/Printer.java" afterDir="false" />
+    <list default="true" id="9e0f2d78-0eea-452f-9d1c-a6a668aa4f30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/FunctionDevelopment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/fibonacci/Num1003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/fibonacci/Num2747.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/fibonacci/Num2748.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/fibonacci/Num2749.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/IntAdder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/Num1193.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/Num1914.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/NumberBaseball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/programmers/hash/BestAlbum$Best.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/programmers/hash/BestAlbum$Song.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/programmers/hash/BestAlbum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/programmers/hash/PhoneBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/sorting/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/sorting/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/sorting/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/sorting/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/spy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/woowa/Elevator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/woowa/Num1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/woowa/Num2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/woowa/Num3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/woowa/Num4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/woowa/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/other/woowa/Photo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/MatrixGraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/Num10845$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/Num10845.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/Num11866.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/Num1260.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/Num1966.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num10989.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num1181$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num1181.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num1427.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num2108$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num2108.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num2750.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Num2751.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Num10828$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Num10828.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Num1874.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Num2504.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Num9012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/other/programmers/hash/BestAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/other/programmers/hash/BestAlbum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,28 +17,62 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2089730502">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1030" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1030" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/hash/PhoneBook.java">
+        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/stackandqueue/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/stackandqueue/BridgePassTruck.java">
+        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/stackandqueue/FunctionDevelopment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="138">
+              <caret line="61" column="72" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
               <folding>
-                <element signature="e#1541#1542#0" expanded="true" />
-                <element signature="e#1576#1577#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#1198#1199#0" expanded="true" />
+                <element signature="e#1253#1254#0" expanded="true" />
+                <element signature="e#1465#1466#0" expanded="true" />
+                <element signature="e#1548#1549#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,97 +83,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaFXApplication" />
-        <option value="JUnit4 Test Class" />
-        <option value="Singleton" />
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>System.out.println(sum);</find>
-      <find>compare</find>
-      <find>tmp</find>
-      <find>vertical</find>
-      <find>cityNameMap</find>
-      <find>사람 수</find>
-      <find>현재 탑승</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>N</replace>
-      <replace>indexCity</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java" />
-        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java" />
-        <option value="$PROJECT_DIR$/src/main/Num1676.java" />
-        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num1676.java" />
-        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num2407.java" />
-        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num9375.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1003.java" />
-        <option value="$PROJECT_DIR$/src/main/binomical_coefficient/Num6591.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1149.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1932.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1463.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num10844.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num2293.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1520.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num2579.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num2156.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1005.java" />
-        <option value="$PROJECT_DIR$/src/main/other/NumberBaseball.java" />
-        <option value="$PROJECT_DIR$/src/main/other/spy.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Member.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/MemberBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num11066.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num1912.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num9461.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num9252.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Num9251.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Truck.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Sedan.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Cars.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/NotEnumCar.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Driver.java" />
-        <option value="$PROJECT_DIR$/src/main/dp_basic/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/other/woowa/Num1.java" />
-        <option value="$PROJECT_DIR$/src/main/other/woowa/Num2.java" />
-        <option value="$PROJECT_DIR$/src/main/other/woowa/Num3.java" />
-        <option value="$PROJECT_DIR$/src/main/other/woowa/Num4.java" />
-        <option value="$PROJECT_DIR$/src/main/other/Num1193.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/BubbleSorting.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/SelectionSorting.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/InsertionSorting.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/other/sorting/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/other/programmers/hash/PhoneBook.java" />
-        <option value="$PROJECT_DIR$/src/main/other/programmers/hash/BestAlbum.java" />
-        <option value="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/Printer.java" />
-        <option value="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/IronRod.java" />
-        <option value="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/BridgePassTruck.java" />
+        <option value="$PROJECT_DIR$/src/main/other/programmers/stackandqueue/FunctionDevelopment.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1531" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -190,47 +112,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="hash" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
@@ -246,33 +159,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549368113993" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="binomical_coefficient" />
-      <recent name="deque" />
-      <recent name="other" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="dp_basic" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="binomical_coefficient" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateBuilderDialog.RecentsKey">
-      <recent name="dp_basic" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549449237200" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,13 +175,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BestAlbum">
-    <configuration name="BestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.programmers.hash.BestAlbum" />
+  <component name="RunManager">
+    <configuration name="FunctionDevelopment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.programmers.stackandqueue.FunctionDevelopment" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.programmers.hash.*" />
+          <option name="PATTERN" value="main.other.programmers.stackandqueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,72 +189,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.sorting.MergeSort" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num1193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Num1193" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.programmers.hash.PhoneBook" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.programmers.hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.sorting.QuickSort" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Num1193" />
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.PhoneBook" />
-      <item itemvalue="Application.BestAlbum" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestAlbum" />
-        <item itemvalue="Application.PhoneBook" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.Num1193" />
+        <item itemvalue="Application.FunctionDevelopment" />
       </list>
     </recent_temporary>
   </component>
@@ -374,61 +200,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c6fd675-003f-4063-bec0-52faae5147ab" name="Default Changelist" comment="" />
-      <created>1539766081395</created>
+      <changelist id="9e0f2d78-0eea-452f-9d1c-a6a668aa4f30" name="Default Changelist" comment="" />
+      <created>1549368645175</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539766081395</updated>
+      <updated>1549368645175</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="MyDequeTest_isEmpty - 2018.10.17 at 19h 37m 09s.xml">
-      <configuration name="MyDequeTest.isEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Num11401Test_factorial - 2018.11.07 at 18h 26m 35s.xml">
-      <configuration name="Num11401Test.factorial" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Num11401Test - 2018.11.07 at 18h 26m 56s.xml">
-      <configuration name="Num11401Test" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="1432" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26898223" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="DB Browser" order="7" />
-      <window_info id="Project Explorer" order="8" />
-      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.3739726" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30547947" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.3808219" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
-      <window_info anchor="bottom" id="DB Execution Console" order="11" />
-      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32840723" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -437,376 +238,31 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/deque/Num10866.java</url>
-          <line>2</line>
-          <properties class="deque.Num10866">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/binomical_coefficient/Num10872.java</url>
-          <line>7</line>
-          <properties class="binomical_coefficient.Num10872" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1149.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="82" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2156.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1520.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2293.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1463.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num10844.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1932.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2579.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/IntAdder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/spy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Member.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/MemberBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Person.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1005.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num11066.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="45" column="98" selection-start-line="45" selection-start-column="98" selection-end-line="45" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num9251.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Truck.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Sedan.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Driver.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/NotEnumCar.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num9252.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num9461.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11051.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11401.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num9375.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11050.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num11401_ex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1912.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num2407.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/binomical_coefficient/Num1676.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="47" selection-start-line="42" selection-start-column="23" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/deque/Num5430.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="81" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/Num1193.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/sorting/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/sorting/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/sorting/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/sorting/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/sorting/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/woowa/Num4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/woowa/Num3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/woowa/Num2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="949">
-          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/woowa/Num1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/NumberBaseball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/hash/BestAlbum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-          <folding>
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#917#918#0" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-            <element signature="e#1459#1460#0" expanded="true" />
-            <element signature="e#1489#1490#0" expanded="true" />
-            <element signature="e#1522#1523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/stackandqueue/IronRod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/other/programmers/stackandqueue/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/hash/PhoneBook.java">
+    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/stackandqueue/FunctionDevelopment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="138">
+          <caret line="61" column="72" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/stackandqueue/BridgePassTruck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#1541#1542#0" expanded="true" />
-            <element signature="e#1576#1577#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1253#1254#0" expanded="true" />
+            <element signature="e#1465#1466#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -814,80 +270,9 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>algorithm</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
