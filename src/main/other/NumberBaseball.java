@@ -5,7 +5,7 @@ import java.util.*;
 public class NumberBaseball {
 
     public static void main(String[] args) {
-//        solution();
+//        solutionWrong();
     }
 
     public static void solution(int[][] baseball) {
