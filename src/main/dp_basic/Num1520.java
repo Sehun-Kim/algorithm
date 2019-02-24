@@ -3,7 +3,7 @@ package dp_basic;
  * A ~ B 까지 가는 방법의 수를 계속 더하면 됨
  * http://mygumi.tistory.com/231
  *
- * dfs + dp 문제
+ * dfsbfs + dp 문제
  */
 
 import java.util.Scanner;

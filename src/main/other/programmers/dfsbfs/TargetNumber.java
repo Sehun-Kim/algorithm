@@ -1,4 +1,4 @@
-package main.other.programmers.dfs;
+package main.other.programmers.dfsbfs;
 
 // 다른 사람의 풀이를 참고하여 풀었음
 public class TargetNumber {
