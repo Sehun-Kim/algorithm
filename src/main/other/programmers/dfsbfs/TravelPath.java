@@ -58,11 +58,10 @@ public class TravelPath {
         @Override
         public int compareTo(AblePath o) {
             for (int i = 0; i < this.path.length; i++) {
-                if (this.path[i].compareTo(o.path[i]) > 0) {
+                if (this.path[i].compareTo(o.path[i]) > 0)
                     return 1;
-                } else if(this.path[i].compareTo(o.path[i]) < 0) {
+                if (this.path[i].compareTo(o.path[i]) < 0)
                     return -1;
-                }
             }
             return 0;
         }
@@ -84,7 +83,6 @@ public class TravelPath {
         }
 
         Collections.sort(paths);
-
         return paths.get(0).getPath();
     }
 
@@ -95,15 +93,11 @@ public class TravelPath {
         }
 
         for (int i = 0; i < ticketList.size(); i++) {
-            if (i == current || visited.contains(i)) {
+            if (i == current || visited.contains(i))
                 continue;
-            }
 
             if (ticketList.get(current).isTravel(ticketList.get(i))) {
-                ArrayList<Integer> visit = new ArrayList<>();
-                for (Integer num : visited) {
-                    visit.add(num);
-                }
+                ArrayList<Integer> visit = new ArrayList<>(visited);
                 visit.add(i);
                 travel(i, ticketList, visit);
             }
