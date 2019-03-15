@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="109c6ee1-9806-4d16-8cb6-dc2624319739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/heap/DiskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/heap/DiskControllerTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/heap/DoublePriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/other/programmers/heap/RamenFactory$Supply.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/other/programmers/heap/RamenFactory$Supply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/other/programmers/heap/RamenFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/other/programmers/heap/RamenFactory.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,41 +16,45 @@
     <session id="-2089730502">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.155" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="42" />
+          <entry key="java" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="24" />
-          <entry key="java" value="14821" />
+          <entry key="dummy" value="29" />
+          <entry key="java" value="15969" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14821" />
-          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="JAVA" value="15969" />
+          <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
     </session>
@@ -63,41 +64,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/RamenFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/DiskController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
-                <element signature="e#1697#1698#0" expanded="true" />
-                <element signature="e#1744#1745#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/DiskControllerTwo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/DoublePriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="337">
+              <caret line="40" column="44" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="40" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -114,6 +85,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>depth</find>
+      <find>System.out.println</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/main/other/programmers/heap/RamenFactory.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/heap/DiskController.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/heap/DiskControllerTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/other/programmers/heap/DoublePriorityQueue.java" />
       </list>
     </option>
   </component>
@@ -150,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,12 +169,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/sehun/IdeaProjects/baekjoon_algorithm/src/main/other/programmers/dfsbfs/TargetNumber.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552122771251" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552637563430" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -218,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiskControllerTwo">
+  <component name="RunManager" selected="Application.DoublePriorityQueue">
     <configuration name="DiskController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.other.programmers.heap.DiskController" />
       <module name="algorithm" />
@@ -234,6 +207,19 @@
     </configuration>
     <configuration name="DiskControllerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.other.programmers.heap.DiskControllerTwo" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.other.programmers.heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublePriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.programmers.heap.DoublePriorityQueue" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -271,33 +257,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.sorting.SelectionSort" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.MoreHot" />
       <item itemvalue="Application.RamenFactory" />
       <item itemvalue="Application.DiskController" />
       <item itemvalue="Application.DiskControllerTwo" />
+      <item itemvalue="Application.DoublePriorityQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoublePriorityQueue" />
         <item itemvalue="Application.DiskControllerTwo" />
         <item itemvalue="Application.DiskController" />
         <item itemvalue="Application.RamenFactory" />
         <item itemvalue="Application.MoreHot" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +291,7 @@
     <frame x="1432" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.30332828" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.3267776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,12 +300,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50611246" side_tool="true" weight="0.28971255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27914613" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23973727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840723" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36945814" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32840723" />
@@ -364,13 +337,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/other/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1912.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -525,16 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/RamenFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/DiskController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -548,13 +504,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/DiskControllerTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/RamenFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="474">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/DiskControllerTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/heap/DoublePriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="40" column="44" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="40" selection-end-column="44" />
         </state>
       </provider>
     </entry>
