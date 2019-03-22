@@ -1,4 +1,4 @@
-package main.other.remotejobpair;
+package main.other.programmers.remotejobpair;
 
 import java.util.ArrayList;
 import java.util.Collections;
