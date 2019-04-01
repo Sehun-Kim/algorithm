@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="109c6ee1-9806-4d16-8cb6-dc2624319739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/HateSameNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/other/sixshop/Braces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/other/sixshop/MovieTitles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/other/sixshop/Pangrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/other/sixshop/TheDuel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/other/programmers/leveltest/level1/HateSameNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/other/programmers/leveltest/level1/HateSameNumber.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +20,7 @@
     <session id="-2089730502">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.155" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -33,30 +37,31 @@
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="83" />
+          <entry key="java" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="83" />
+          <entry key="JAVA" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="57" />
-          <entry key="java" value="23124" />
+          <entry key="dummy" value="58" />
+          <entry key="java" value="25031" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="23124" />
-          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="JAVA" value="25031" />
+          <entry key="PLAIN_TEXT" value="58" />
         </counts>
       </usages-collector>
     </session>
@@ -65,20 +70,7 @@
     <favorites_list name="baekjoon_algorithm" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/HateSameNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,6 +124,10 @@
         <option value="$PROJECT_DIR$/src/main/other/programmers/linetest/Num5.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/PermutationCheck.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/HateSameNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/other/sixshop/Pangrams.java" />
+        <option value="$PROJECT_DIR$/src/main/other/sixshop/Braces.java" />
+        <option value="$PROJECT_DIR$/src/main/other/sixshop/TheDuel.java" />
+        <option value="$PROJECT_DIR$/src/main/other/sixshop/MovieTitles.java" />
       </list>
     </option>
   </component>
@@ -176,27 +172,16 @@
               <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="leveltest" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="baekjoon_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baekjoon_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="leveltest" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +193,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Woha&#9;PSI&#9;JAVA://other.IntAdder.Woha2" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553264530937" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554123425228" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -224,7 +209,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HateSameNumber">
+  <component name="RunManager" selected="Application.MovieTitles">
+    <configuration name="Braces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.sixshop.Braces" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.other.sixshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HateSameNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.HateSameNumber" />
       <module name="algorithm" />
@@ -238,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.programmers.linetest.Num3" />
+    <configuration name="MovieTitles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.sixshop.MovieTitles" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.other.programmers.linetest.*" />
+          <option name="PATTERN" value="main.other.sixshop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.PermutationCheck" />
+    <configuration name="Pangrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.sixshop.Pangrams" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.other.programmers.leveltest.level1.*" />
+          <option name="PATTERN" value="main.other.sixshop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,25 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Woha2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.programmers.linetest.Woha2" />
+    <configuration name="TheDuel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.sixshop.TheDuel" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.other.programmers.linetest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WoowaCourse6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.programmers.WoowaCourse6" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.other.programmers.*" />
+          <option name="PATTERN" value="main.other.sixshop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,19 +276,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Num3" />
-      <item itemvalue="Application.Woha2" />
-      <item itemvalue="Application.WoowaCourse6" />
-      <item itemvalue="Application.PermutationCheck" />
       <item itemvalue="Application.HateSameNumber" />
+      <item itemvalue="Application.Pangrams" />
+      <item itemvalue="Application.Braces" />
+      <item itemvalue="Application.TheDuel" />
+      <item itemvalue="Application.MovieTitles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieTitles" />
+        <item itemvalue="Application.TheDuel" />
+        <item itemvalue="Application.Braces" />
+        <item itemvalue="Application.Pangrams" />
         <item itemvalue="Application.HateSameNumber" />
-        <item itemvalue="Application.PermutationCheck" />
-        <item itemvalue="Application.Num3" />
-        <item itemvalue="Application.WoowaCourse6" />
-        <item itemvalue="Application.Woha2" />
       </list>
     </recent_temporary>
   </component>
@@ -322,9 +307,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.33736762" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.34266263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +322,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36945814" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36945814" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32840723" />
@@ -370,20 +354,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1912.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num2579.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num10844.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-38">
@@ -664,19 +634,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/HateSameNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="35" column="52" lean-forward="true" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/HateSameNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/stack/Num2504.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="-494">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/sixshop/Braces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/sixshop/Pangrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/sixshop/TheDuel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/sixshop/MovieTitles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stack/Num9012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="42" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="51" selection-end-column="42" />
+          <folding>
+            <element signature="e#555#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stack/Num1874.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
         </state>
       </provider>
     </entry>
