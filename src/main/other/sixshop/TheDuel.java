@@ -9,7 +9,6 @@ public class TheDuel {
     public static void main(String[] args) {
 
         Integer[] s = {-5,
-
                 4,
                 -2,
                 3,
