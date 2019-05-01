@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="109c6ee1-9806-4d16-8cb6-dc2624319739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/NumberOfPAndYInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -16,7 +16,7 @@
     <session id="-2089730502">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.155" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -33,6 +33,7 @@
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.55" value="1" />
@@ -41,28 +42,28 @@
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.88" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="101" />
+          <entry key="java" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="101" />
+          <entry key="JAVA" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="58" />
-          <entry key="java" value="25907" />
+          <entry key="java" value="26186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25907" />
+          <entry key="JAVA" value="26186" />
           <entry key="PLAIN_TEXT" value="58" />
         </counts>
       </usages-collector>
@@ -73,11 +74,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="190">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/NumberOfPAndYInString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/ValueOfFunction.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/Budget.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/NumberOfPAndYInString.java" />
       </list>
     </option>
   </component>
@@ -161,6 +175,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,12 +247,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Woha&#9;PSI&#9;JAVA://other.IntAdder.Woha2" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556623436778" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556679338535" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -253,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.NumberOfPAndYInString">
     <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.Budget" />
       <module name="algorithm" />
@@ -280,8 +294,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.Palindrome" />
+    <configuration name="NumberOfPAndYInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.NumberOfPAndYInString" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -293,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheDuel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.sixshop.TheDuel" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.Palindrome" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.other.sixshop.*" />
+          <option name="PATTERN" value="main.other.programmers.leveltest.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TheDuel" />
       <item itemvalue="Application.DigitAdd" />
       <item itemvalue="Application.ValueOfFunction" />
       <item itemvalue="Application.Budget" />
       <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.NumberOfPAndYInString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfPAndYInString" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Budget" />
         <item itemvalue="Application.ValueOfFunction" />
         <item itemvalue="Application.DigitAdd" />
-        <item itemvalue="Application.TheDuel" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +367,7 @@
     <frame x="1432" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.38199696" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.3880484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,20 +413,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/highlevelkit/bruteforce/DecimalNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-589">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/remotejobpair/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/dp_basic/Num1463.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -749,8 +749,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="190">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="2668" column="18" selection-start-line="2668" selection-start-column="18" selection-end-line="2668" selection-end-column="18" />
+          <folding>
+            <element signature="e#104675#104676#0" expanded="true" />
+            <element signature="e#104730#104731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/NumberOfPAndYInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
