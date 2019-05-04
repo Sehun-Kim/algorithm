@@ -10,7 +10,7 @@ public class OddAlphabet {
         System.out.println(result);
     }
 
-    public static int solution(String s) {
+    private static int solution(String s) {
         String[] strs = s.split("");
         Map<String, Integer> alphabets = new HashMap<>();
 
