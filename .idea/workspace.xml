@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="109c6ee1-9806-4d16-8cb6-dc2624319739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/RankingOfTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/FindAlphabet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -16,12 +16,15 @@
     <favorites_list name="baekjoon_algorithm" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/RankingOfTickets.java">
+        <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/FindAlphabet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+            <state relative-caret-position="123">
+              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/DrawANationalTeam.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/RedundantNumberRemovalWith.java" />
         <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/RankingOfTickets.java" />
+        <option value="$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/FindAlphabet.java" />
       </list>
     </option>
   </component>
@@ -114,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,14 +174,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Woha&#9;PSI&#9;JAVA://other.IntAdder.Woha2" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559456150343" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559827505818" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RankingOfTickets">
+  <component name="RunManager" selected="Application.FindAlphabet">
     <configuration name="DrawANationalTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.DrawANationalTeam" />
       <module name="algorithm" />
@@ -206,8 +210,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMajority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.FindMajority" />
+    <configuration name="FindAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.FindAlphabet" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -219,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.OddAlphabet" />
+    <configuration name="FindMajority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.other.programmers.leveltest.level1.FindMajority" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -259,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OddAlphabet" />
       <item itemvalue="Application.FindMajority" />
       <item itemvalue="Application.DrawANationalTeam" />
       <item itemvalue="Application.RedundantNumberRemovalWith" />
       <item itemvalue="Application.RankingOfTickets" />
+      <item itemvalue="Application.FindAlphabet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAlphabet" />
         <item itemvalue="Application.RankingOfTickets" />
         <item itemvalue="Application.RedundantNumberRemovalWith" />
         <item itemvalue="Application.DrawANationalTeam" />
         <item itemvalue="Application.FindMajority" />
-        <item itemvalue="Application.OddAlphabet" />
       </list>
     </recent_temporary>
   </component>
@@ -292,30 +296,30 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="DB Browser" />
-      <window_info id="Project Explorer" />
-      <window_info id="Job Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.30936995" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.319063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50611246" side_tool="true" weight="0.28971255" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="DB Browser" order="7" />
+      <window_info id="Project Explorer" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3780822" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3780822" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31506848" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31506848" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32840723" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="SBT Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -324,6 +328,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -341,13 +346,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/sorting/Num1181.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/other/programmers/highlevelkit/dfsbfs/TravelPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="559">
@@ -689,8 +687,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/RankingOfTickets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/other/programmers/leveltest/level1/FindAlphabet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
